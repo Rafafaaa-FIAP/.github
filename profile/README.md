@@ -18,7 +18,7 @@
 <details open>
   <summary>Matérias</summary>
   
-  #### [Domain Driven Design – Java](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=JAV+sort%3Aname-asc)
+  #### [Domain Driven Design - Java](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=JAV+sort%3Aname-asc)
   #### [AR/VR Modelling and Simulation](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=ARV+sort%3Aname-asc)
   #### [Agile Methodology With Squad Framework](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=AGI+sort%3Aname-asc)
   #### [Database Design](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=DAT+sort%3Aname-asc)
