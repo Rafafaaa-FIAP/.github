@@ -2,7 +2,7 @@
 ## Engenharia de Software
 
 ### Ano 1
-<details open>
+<details>
   <summary>Matérias</summary>
   
   #### [Computional Thinking With Python](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=CTP+sort%3Aname-asc)
