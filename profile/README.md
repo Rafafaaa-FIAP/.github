@@ -29,3 +29,20 @@
   #### [Global Solution - Semestre 1](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=GS03-+sort%3Aname-asc)
   #### [Global Solution - Semestre 2](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=GS04-+sort%3Aname-asc)
 </details>
+
+### Ano 3
+<details open>
+  <summary>Matérias</summary>
+  
+  #### [Physical Computing: IoT & IOB](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=IOT-+sort%3Aname-asc)
+  #### [C# Software Development](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=CSD-+sort%3Aname-asc)
+  #### [Testing, Compliance & Quality Assurance](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=TCQ-+sort%3Aname-asc)
+  #### [Operating Systems](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=SYS-+sort%3Aname-asc)
+  #### [Cybersecurity](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=CYB-+sort%3Aname-asc)
+  #### [Mobile Development & IoT](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=MOB-+sort%3Aname-asc)
+  #### [Inteligência Artificial & Machine Learning](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=IAM-+sort%3Aname-asc)
+  #### [Arquitetura Orientada a Serviços (SOA) e Web Services](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=SOA-+sort%3Aname-asc)
+  #### [Challenge](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=CHL3-+sort%3Aname-asc)
+  #### [Global Solution - Semestre 1](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=GS05-+sort%3Aname-asc)
+  #### [Global Solution - Semestre 2](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=GS06-+sort%3Aname-asc)
+</details>
