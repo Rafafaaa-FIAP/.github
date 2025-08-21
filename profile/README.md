@@ -5,13 +5,13 @@
 <details>
   <summary>Matérias</summary>
   
-  #### [Computional Thinking With Python](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=CTP-+sort%3Aname-asc)
-  #### [Edge Computing & Computer Systems](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=EDG-+sort%3Aname-asc)
-  #### [Front-End Design](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=FRO-+sort%3Aname-asc)
-  #### [Web Development](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=WEB-+sort%3Aname-asc)
-  #### [Challenge](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=CHL1-+sort%3Aname-asc)
-  #### [Global Solution - Semestre 1](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=GS01-+sort%3Aname-asc)
-  #### [Global Solution - Semestre 2](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=GS02-+sort%3Aname-asc)
+  #### [Computional Thinking With Python](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Actp+sort%3Aname-asc)
+  #### [Edge Computing & Computer Systems](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Aedg+sort%3Aname-asc)
+  #### [Front-End Design](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Afro+sort%3Aname-asc)
+  #### [Web Development](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Aweb+sort%3Aname-asc)
+  #### [Challenge](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Achl+sort%3Aname-asc)
+  #### [Global Solution - Semestre 1](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Ags1+sort%3Aname-asc)
+  #### [Global Solution - Semestre 2](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Ags2+sort%3Aname-asc)
 </details>
 
 ### Ano 2
