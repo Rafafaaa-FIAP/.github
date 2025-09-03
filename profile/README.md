@@ -5,6 +5,8 @@
 <details>
   <summary>Matérias</summary>
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=ED145B&repeat=false&width=435&lines=COMPUTATIONAL+THINKING+WITH+PYTHON)](https://git.io/typing-svg)
+  
   #### [Computional Thinking With Python](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Actp+sort%3Aname-asc)
   #### [Edge Computing & Computer Systems](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Aedg+sort%3Aname-asc)
   #### [Front-End Design](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano1+topic%3Afro+sort%3Aname-asc)
@@ -18,13 +20,10 @@
 <details open>
   <summary>Matérias</summary>
   
-  #### [Domain Driven Design - Java](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=JAV-+sort%3Aname-asc)
-  #### [AR/VR Modelling and Simulation](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=ARV-+sort%3Aname-asc)
-  #### [Agile Methodology With Squad Framework](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=AGI-+sort%3Aname-asc)
-  #### [Database Design](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=DAT-+sort%3Aname-asc)
-  #### [Dynamic Programming](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=DYN-+sort%3Aname-asc)
-  #### [Network Architect Solutions](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=NET-+sort%3Aname-asc)
-  #### [Data Science & Statistical Computing](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=DSC-+sort%3Aname-asc)
+  #### [Domain Driven Design - Java](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano2+topic%3Ajav+sort%3Aname-asc)
+  #### [Database Design](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano2+topic%3Adat+sort%3Aname-asc)
+  #### [Dynamic Programming](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano2+topic%3Adyn+sort%3Aname-asc)
+  #### [Data Science & Statistical Computing](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=topic%3Aano2+topic%3Adsc+sort%3Aname-asc)
   #### [Challenge](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=CHL2-+sort%3Aname-asc)
   #### [Global Solution - Semestre 1](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=GS03-+sort%3Aname-asc)
   #### [Global Solution - Semestre 2](https://github.com/orgs/Rafafaaa-FIAP/repositories?q=GS04-+sort%3Aname-asc)
