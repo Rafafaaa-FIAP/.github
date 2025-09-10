@@ -1,5 +1,6 @@
 # FIAP
 ## Engenharia de Software
+> Formação Full Stack em Engenharia de Software, com foco em desenvolvimento seguro, IA, Data Driven, DevSecOps e soluções digitais inovadoras.
 
 ### Ano 1
 <details>
